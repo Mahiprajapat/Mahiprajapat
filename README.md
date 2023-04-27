@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mahiprajapat
 - 👀 I’m interested in doing coding language.
-- 🌱 I’m currently learning c++ and DSA.
+- 🌱 I’m currently learning Full stack web developer.
 - 💞️ I’m looking to collaborate on codes.
-- 
+ 
 
 <!---
 Mahiprajapat/Mahiprajapat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
